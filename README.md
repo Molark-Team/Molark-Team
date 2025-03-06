@@ -1,4 +1,4 @@
-![MasterHead](https://i.postimg.cc/pXYBCRCw/Untitled-design.png)
+[//]: #![MasterHead](https://i.postimg.cc/pXYBCRCw/Untitled-design.png)
 <h1 align="center">Hi 👋, We are Molark.</h1>
 <h3 align="center">A group of developers</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/22255860/file/original-eab1f1b0b4a5783b81ce905bcf10e236.gif"/>
