@@ -7,7 +7,7 @@
 
 - 👯 We are looking to collaborate on **developing web applications.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Molark-Team](https://github.com/Molark-Team)
+- 👨‍💻 All of our projects are available at [https://github.com/Molark-Team](https://github.com/Molark-Team)
 
 - 💬 Ask us about **Next.js and Laravel**
 
